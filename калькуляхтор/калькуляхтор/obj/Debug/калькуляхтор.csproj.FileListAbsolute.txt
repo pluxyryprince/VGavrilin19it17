@@ -1,0 +1,9 @@
+C:\Users\adm1n_1337\source\repos\калькуляхтор\калькуляхтор\bin\Debug\калькуляхтор.exe.config
+C:\Users\adm1n_1337\source\repos\калькуляхтор\калькуляхтор\bin\Debug\калькуляхтор.exe
+C:\Users\adm1n_1337\source\repos\калькуляхтор\калькуляхтор\bin\Debug\калькуляхтор.pdb
+C:\Users\adm1n_1337\source\repos\калькуляхтор\калькуляхтор\obj\Debug\калькуляхтор.csprojAssemblyReference.cache
+C:\Users\adm1n_1337\source\repos\калькуляхтор\калькуляхтор\obj\Debug\калькуляхтор.Form1.resources
+C:\Users\adm1n_1337\source\repos\калькуляхтор\калькуляхтор\obj\Debug\калькуляхтор.Properties.Resources.resources
+C:\Users\adm1n_1337\source\repos\калькуляхтор\калькуляхтор\obj\Debug\калькуляхтор.csproj.GenerateResource.cache
+C:\Users\adm1n_1337\source\repos\калькуляхтор\калькуляхтор\obj\Debug\калькуляхтор.exe
+C:\Users\adm1n_1337\source\repos\калькуляхтор\калькуляхтор\obj\Debug\калькуляхтор.pdb
