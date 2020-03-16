@@ -1,0 +1,9 @@
+C:\Users\adm1n_1337\source\repos\Calculator release 2\Calculator release 2\bin\Debug\Calculator release 2.exe.config
+C:\Users\adm1n_1337\source\repos\Calculator release 2\Calculator release 2\bin\Debug\Calculator release 2.exe
+C:\Users\adm1n_1337\source\repos\Calculator release 2\Calculator release 2\bin\Debug\Calculator release 2.pdb
+C:\Users\adm1n_1337\source\repos\Calculator release 2\Calculator release 2\obj\Debug\Calculator release 2.csprojAssemblyReference.cache
+C:\Users\adm1n_1337\source\repos\Calculator release 2\Calculator release 2\obj\Debug\Calculator_release_2.Properties.Resources.resources
+C:\Users\adm1n_1337\source\repos\Calculator release 2\Calculator release 2\obj\Debug\Calculator release 2.csproj.GenerateResource.cache
+C:\Users\adm1n_1337\source\repos\Calculator release 2\Calculator release 2\obj\Debug\Calculator release 2.exe
+C:\Users\adm1n_1337\source\repos\Calculator release 2\Calculator release 2\obj\Debug\Calculator release 2.pdb
+C:\Users\adm1n_1337\source\repos\Calculator release 2\Calculator release 2\obj\Debug\Calculator_release_2.Calculator.resources
